@@ -1,0 +1,29 @@
+{
+  "item.iserniamod.aetherinite": "Aetherinite",
+  "item.iserniamod.vitaleousceum": "Vitaleousceum",
+  "item.iserniamod.crescent_gem": "Crescent Gem",
+  "item.iserniamod.ice_droop": "Ice Droop",
+  "item.iserniamod.ruby": "Ruby",
+  "item.iserniamod.iserbian_ingot": "Iserbian Ingot",
+  "item.iserniamod.erbian_ingot": "Erbian Piece",
+  "item.iserniamod.frostborne": "Frostborne",
+  "item.iserniamod.heros_sword": "Hero's Sword",
+  "item.iserniamod.aether_sword": "The Aether's Sword",
+  "item.iserniamod.starglitter_sword": "Starglitter Sword",
+  "item.iserniamod.crescent_sword": "Crescent Sword",
+  "item.iserniamod.prototype_nightmare": "Prototype Nightmare",
+  "item.iserniamod.ruby_sword": "Ruby Sword",
+  "item.iserniamod.erbian_sword": "Erbian Sword",
+  "item.iserniamod.soul": "Soulsweeper",
+  "item.iserniamod.crescent_pickaxe": "Crescent Pickaxe",
+  "item.iserniamod.ruby_pickaxe": "Ruby Pickaxe",
+
+  "block.iserniamod.aether_ore": "Aether Ore",
+  "block.iserniamod.prismatic_planks": "Prismatic Plank",
+  "block.iserniamod.crescent_log": "Crescent Log",
+
+  "itemGroup.iserniaitemsModTab": "Isernian Items",
+  "itemGroup.iserniablocksModTab": "Isernian Blocks",
+
+  "item.iserniamod.penguin_spawn_egg": "Penguin Spawn Egg"
+}
